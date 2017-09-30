@@ -1,10 +1,11 @@
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="jmritenour"><a class="LI-simple-link" href='https://www.linkedin.com/in/jmritenour?trk=profile-badge'>Jason Ritenour</a></div>
+<img src="https://github.com/jritenour/jritenour.github.io/blob/master/headshot.png?raw=true" width="100" align="right">
+<h1> Hello! I'm Jason!</h1></img>
+
+[LinkedIn](https://www.linkedin.com/in/jmritenour/)
 
 <a href="https://twitter.com/jasonjmritenour?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @jasonjmritenour</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<BR>
-<BR>
 
 #About me:
 I'm a Cloud Management Solutions Architect with Red Hat.  I specialize in [CloudForms](https://www.redhat.com/en/technologies/management/cloudforms) - based on the [ManageIQ](https://manageiq.org) project - and [Ansible](https://www.ansible.com/).  In my role, I do a lot of deep dive demos, workshops, and proof of concept implementations for public sector customers.  I also come up with custom automation processes to show off some of the things CloudForms and Ansible can do together.  
