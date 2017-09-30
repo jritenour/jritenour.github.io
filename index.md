@@ -1,5 +1,7 @@
 # Hello, I'm Jason Ritenour
 
+<img src=https://github.com/jritenour/jritenour.github.io/blob/master/headshot.png?raw=true width="100">
+
 4 of the 5 following facts about me are true.  Can you guess which ones?
 
   * I am a Solutions Achitect
